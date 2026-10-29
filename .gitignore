@@ -1,0 +1,16 @@
+**/bin/
+**/obj/
+.dotnet-home/
+.nuget-packages/
+.vs/
+.idea/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.log
+Application/
+dist/
+publish/
+sources/

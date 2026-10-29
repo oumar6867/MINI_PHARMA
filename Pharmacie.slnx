@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Pharmacie.Domain\Pharmacie.Domain.csproj" />
+  <Project Path="Pharmacie.Application\Pharmacie.Application.csproj" />
+  <Project Path="Pharmacie.Infrastructure\Pharmacie.Infrastructure.csproj" />
+  <Project Path="Pharmacie.WinForms\Pharmacie.WinForms.csproj" />
+  <Project Path="Pharmacie.Tests\Pharmacie.Tests.csproj" />
+</Solution>
